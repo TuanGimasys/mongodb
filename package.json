@@ -1,0 +1,16 @@
+{
+  "name": "mongodb-change-stream-to-pub-sub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "keywords": [],
+  "license": "Apache 2.0",
+  "dependencies": {
+    "@google-cloud/pubsub": "^3.7.5",
+    "avro-js": "^1.11.3",
+    "mongodb": "^4.17.1"
+  }
+}
